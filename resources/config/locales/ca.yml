@@ -21,7 +21,7 @@ ca:
         records:
           no_files_yet: Encara no hi han arxius. Prem "Pujar nou arxiu" per afegir el teu primer arxiu.
         insert:
-          existing: Archiu existent
+          existing: Arxiu existent
           new: Nou arxiu
           no_files: No hi han arxius.
         existing_resource:
